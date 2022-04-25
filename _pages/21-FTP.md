@@ -1,5 +1,5 @@
 ---
-title: "21 - FTP"
+title: ""
 permalink: /21-FTP/
 layout: single
 author-profile: true
