@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "139/445 SMB"
 permalink: /139-445-SMB-Samba/
 layout: single
 author-profile: true
