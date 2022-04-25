@@ -49,6 +49,7 @@ Nc -nv     <ip> <port>
 grabs banner with netcat
 
 ##SS
+
 ss -tulpn
 Tell us what socket connections are running.
 
@@ -65,5 +66,7 @@ Fullhunt.io
 https://fullhunt.io/
 
 #Port XXX - Service unknown
+  
 If you have a port open with unknown service you can do this to find out which service it might be.
+  
 nmap -d <ip> 8000
