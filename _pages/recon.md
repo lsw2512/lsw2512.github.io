@@ -1,5 +1,5 @@
 ---
-title: "Recon"
+title: ""
 layout: single
 permalink: /recon/
 author-profile: true
