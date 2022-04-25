@@ -3,7 +3,7 @@ main:
   - title: "Quick-Start Guide"
     url: 
   - title: "About"
-    url: /docs/_pages/about.md
+    url: /docs/_pages/
   - title: "Sample Posts"
     url: /year-archive/
   - title: "Sample Collections"
