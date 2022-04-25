@@ -2,6 +2,7 @@
 title: "21 - FTP"
 permalink: /21-FTP/
 layout: single
+author-profile: true
 ---
 
 # Port 21 - FTP 
