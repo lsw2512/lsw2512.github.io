@@ -5,7 +5,7 @@ main:
   - title: "About"
     url: /about/
   - title: "Pentesting-Notes"
-    url: /pnindex/
+    url: /pentest-index/
   - title: "CV"
     url: /CV/
 
