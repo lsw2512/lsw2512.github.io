@@ -1,5 +1,5 @@
 ---
-title: "scanning"
+title: ""
 permalink: /scanning/
 layout: single
 author-profile: true
