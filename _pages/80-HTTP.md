@@ -82,6 +82,11 @@ Look for status or change in length
 
 # Buffer Overflow
 https://github.com/johnjhacking/Buffer-Overflow-Guide
-Useful commands
+
+# Useful commands
+  
 /etc/hosts
 You can append the IP address of the box to a domain name by going to /etc/hosts and adding domain-name target-ip
+  
+At the end of a URL, you can add {{1+1}}
+if this comes back with 'page 2 cannot be found', it means that python can be used to execute commands between these brackets {{}}.
