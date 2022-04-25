@@ -1,3 +1,10 @@
+---
+title: ""
+permalink: /80-HTTP/
+layout: single
+author-profile: true
+---
+
 # HTTP - Web Vulnerabilities.
 We usually just think of vulnerabilities on the http-interface, the web page, when we think of port 80. But with .htaccess we are able to password protect certain directories. If that is the case we can brute force the following way.
 Password protect directory with htaccess.
