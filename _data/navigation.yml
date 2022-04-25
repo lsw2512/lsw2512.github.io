@@ -4,6 +4,8 @@ main:
     url: /
   - title: "About"
     url: /about/
+  - title: "Pentesting-Notes"
+    url: /Pentesting-Notes/
   - title: "CV"
     url: /CV/
 
