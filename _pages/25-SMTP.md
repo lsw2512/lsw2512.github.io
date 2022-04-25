@@ -1,5 +1,5 @@
 ---
-title: "25 - SMTP"
+title: ""
 permalink: /25-SMTP/
 layout: single
 author-profile: true
