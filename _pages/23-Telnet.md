@@ -1,5 +1,5 @@
 ---
-title: "23 - Telnet"
+title: ""
 layout: single
 permalink: /telnet/
 author-profile: true
