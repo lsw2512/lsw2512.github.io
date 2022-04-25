@@ -1,5 +1,5 @@
 ---
-title: "22 - SSH"
+title: ""
 permalink: /22-ssh/
 layout: single
 author-profile: true
