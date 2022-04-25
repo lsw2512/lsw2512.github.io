@@ -1,5 +1,5 @@
 ---
-title: "="
+title: ""
 permalink: /119-NNTP/
 layout: single
 author-profile: true
