@@ -2,6 +2,7 @@
 title: "CV"
 permalink: /CV/
 layout: single
+author_profile: true
 ---
 I am currently an IT Administrator for Penn Elcom. Here i Manage the Global network and make sure everything is running smoothly and efficiently. I also get support emails to help our staff with their every day IT Problems. Alongside this, I have many projects that I have to solely manage. I am currently working towards completing the Security Blue Team level 1 certification.
 
