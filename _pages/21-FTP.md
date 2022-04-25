@@ -4,7 +4,9 @@ permalink: /21-FTP/
 layout: single
 ---
 
-# Port 21 - FTP Connect to the ftp-server to enumerate software and version ftp nc 21
+# Port 21 - FTP 
+
+Connect to the ftp-server to enumerate software and version ftp nc 21
 
 Many ftp-servers allow anonymous users. These might be misconfigured and give too much access, and it might also be necessary for certain exploits to work. So always try to log in with anonymous:anonymous.
 
