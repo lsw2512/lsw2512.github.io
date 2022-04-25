@@ -8,7 +8,7 @@ author-profile: true
 
 SSH is such an old and fundamental technology so most modern versions are quite hardened. You can find out the version of the SSH either by scanning it with nmap or by connecting with it using nc.
 
-nc <ip>
+nc ip
 
 It returns something like this: SSH-2.0-OpenSSH_7.2p2 Ubuntu-4ubuntu1
 
