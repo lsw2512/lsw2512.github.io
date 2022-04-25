@@ -1,3 +1,10 @@
+---
+title: "scanning"
+permalink: /scanning/
+layout: single
+author-profile: true
+---
+
 #Scanning
 ##Nmap
 nmap <ip>
