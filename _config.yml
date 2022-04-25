@@ -288,3 +288,11 @@ defaults:
       comments: # true
       share: true
       related: true
+  - scope:
+      path: ""
+      type: pages
+    value:
+      layout: single
+      author_progiles: true
+      read_time: false
+      
