@@ -5,9 +5,9 @@ layout: single
 author-profile: true
 ---
 
-#Scanning
+# Scanning
 
-##Nmap
+## Nmap
 
 nmap <ip>
 
@@ -40,7 +40,7 @@ ping scan
 -sU                                                                
 UDP scan
   
-##Netcat
+## Netcat
 
 `netcat 10.10.10.10 22`                                            
 Grab banner of an open port 
@@ -48,7 +48,7 @@ Grab banner of an open port
 Nc -nv     <ip> <port>                                             
 grabs banner with netcat
 
-##SS
+## SS
 
 ss -tulpn
 Tell us what socket connections are running.
@@ -65,7 +65,7 @@ Connects to a socket we fi=ound from ss scan
 Fullhunt.io
 https://fullhunt.io/
 
-#Port XXX - Service unknown
+# Port XXX - Service unknown
   
 If you have a port open with unknown service you can do this to find out which service it might be.
   
