@@ -1,5 +1,5 @@
 ---
-title: "119-NNTP"
+title: "119 - NNTP"
 permalink: /119-NNTP/
 layout: single
 author-profile: true
