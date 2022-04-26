@@ -13,4 +13,4 @@ author-profile: true
 
 [Christmas Cocktails](/ChristmasCocktail/)
 
-[Scotch-cocktails](/Scotch-cocktails/)
+[Scotch cocktails](/Scotch-cocktails/)
