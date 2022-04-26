@@ -4,3 +4,5 @@ permalink: /Cocktail-Index/
 layout: single
 author-profile: true
 ---
+
+[Syrup](/syrup/)
