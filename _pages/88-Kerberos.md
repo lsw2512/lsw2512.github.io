@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "88 - Kerberos"
 permalink: /88-kerberos/
 layout: single
 author-profile: true
