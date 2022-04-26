@@ -50,16 +50,16 @@ For example, in joomla they are found in:
 
 /var/www/html/configuration.php
 
-In that file you find the
+In that file you find the file:
 
-<?php
-class JConfig {
-    var $mailfrom = 'admin@rainng.com';
-    var $fromname = 'testuser';
-    var $sendmail = '/usr/sbin/sendmail';
-    var $password = 'myPassowrd1234';
-    var $sitename = 'test';
-    var $MetaDesc = 'Joomla! - the dynamic portal engine and content management system';
-    var $MetaKeys = 'joomla, Joomla';
-    var $offline_message = 'This site is down for maintenance. Please check back again soon.';
-    }
+> <?php
+> class JConfig {
+>     var $mailfrom = 'admin@rainng.com';
+>     var $fromname = 'testuser';
+>     var $sendmail = '/usr/sbin/sendmail';
+>     var $password = 'myPassowrd1234';
+>     var $sitename = 'test';
+>     var $MetaDesc = 'Joomla! - the dynamic portal engine and content management system';
+>   var $MetaKeys = 'joomla, Joomla';
+>    var $offline_message = 'This site is down for maintenance. Please check back again soon.';
+>     }
