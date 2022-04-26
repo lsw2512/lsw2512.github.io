@@ -18,7 +18,7 @@ author-profile: true
 - Info
 - Options set source username
 
-## OSINT Automation Foundation
+## OSINT Automation script (needs editing)
 
 '#!/bin/bash 
 domain=$1 
