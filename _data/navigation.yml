@@ -8,4 +8,8 @@ main:
     url: /CV/
   - title: "OSINT"
     url: /OSINT-Index/
+  - title: "Recipies"
+    url: /Recipies-Index/
+  - title: "Cocktails"
+    url: /Cocktails/
 
