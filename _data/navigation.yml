@@ -6,4 +6,6 @@ main:
     url: /pentest-index/
   - title: "CV"
     url: /CV/
+  - title: "OSINT"
+    url: /OSINT-Index/
 
