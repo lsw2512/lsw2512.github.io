@@ -4,12 +4,11 @@ main:
     url: /
   - title: "Pentesting-Notes"
     url: /pentest-index/
-  - title: "CV"
-    url: /CV/
   - title: "OSINT"
     url: /OSINT-Index/
   - title: "Recipies"
     url: /Recipies-Index/
   - title: "Cocktails"
     url: /Cocktail-Index/
-
+  - title: "CV"
+    url: /CV/
