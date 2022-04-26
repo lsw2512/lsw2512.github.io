@@ -11,4 +11,4 @@ author-profile: true
 
 [Pornstar](/Pornstar/)
 
-[ChristmasCocktail](/ChristmasCocktail/)
+[Christmas Cocktails](/ChristmasCocktail/)
