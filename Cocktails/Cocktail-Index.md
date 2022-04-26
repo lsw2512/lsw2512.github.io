@@ -6,3 +6,5 @@ author-profile: true
 ---
 
 [Syrup](/syrup/)
+
+[Shots](/Shots/)
