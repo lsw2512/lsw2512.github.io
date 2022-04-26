@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "587 - Submission"
 permalink: /587-Submission/
 layout: single
 author-profile: true
