@@ -10,5 +10,5 @@ main:
     url: /Recipies-Index/
   - title: "Cocktails"
     url: /Cocktail-Index/
-  - title: "CV"
-    url: /CV/
+ # - title: "CV"
+ #   url: /CV/
