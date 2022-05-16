@@ -58,7 +58,7 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-  hide                   : # true, false (default)
+  hide                   : true #, false (default)
 search                   : # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
@@ -106,19 +106,19 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Cybersecurity Proffesional."
   location         : "UK"
-  email            :
+  email            : lukewilson2512@protonmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:lsw2512@github.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
+      url: "lukewilson2512@protonmail.com"
+    - #label: "Website"
+      #icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/lsw_2512"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
+    - #label: "Facebook"
+      #icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -133,17 +133,17 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/lsw_2512"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
+    - #label: "Facebook"
+      #icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/lsw2512"
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
+    - #label: "GitLab"
+      #icon: "fab fa-fw fa-gitlab"
       # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
+    - #label: "Bitbucket"
+      #icon: "fab fa-fw fa-bitbucket"
       # url:
     - label: "linkedin"
       icon: "fab fa-fw fa-linkedin"
