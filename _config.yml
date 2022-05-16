@@ -148,7 +148,9 @@ footer:
     - label: "linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/luke-wilson-593720196"
-  Image: "/assets/images/mbcs-logo-colour-300x138.jpg"
+    - label: "British Compter Society"
+      icon: "/assets/images/mbcs-logo-colour-300x138.jpg"
+      url: "https://www.bcs.org/"
 
 # Reading Files
 include:
