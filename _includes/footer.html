@@ -16,7 +16,7 @@
       <li class="pull-left"><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
     {% endunless %}
     
-    <div>     </div>
+    <p> &emsp; </p>
     
     {% if site.footer.images %}
       {% for image in site.footer.images %}
