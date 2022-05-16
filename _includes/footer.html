@@ -7,18 +7,20 @@
     {% if site.footer.links %}
       {% for link in site.footer.links %}
         {% if link.label and link.url %}
-          <li class="pull-left"><a href="{{ link.url }}" rel="nofollow noopener noreferrer"><i class="{{ link.icon | default: 'fas fa-link' }}" class="pull-left img-responsive" aria-hidden="true"></i> {{ link.label }}</a></li>
+          <li><a href="{{ link.url }}" rel="nofollow noopener noreferrer"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i> {{ link.label }}</a></li>
         {% endif %}
       {% endfor %}
     {% endif %}
 
     {% unless site.atom_feed.hide %}
-      <li class="pull-left"><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}"><i class="fas fa-fw fa-rss-square" class="pull-left img-responsive" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
+      <li class="pull-left"><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
     {% endunless %}
+    
+    <div>     </div>
     
     {% if site.footer.images %}
       {% for image in site.footer.images %}
-        <li class="pull-right"><img src="/assets/images/mbcs-logo-colour-300x138.jpg" class="pull-right img-responsive" alt="footer logo" style="width:150px;height:69px;"></li>
+        <li><img src="/assets/images/mbcs-logo-colour-300x138.jpg" alt="footer logo" style="width:150px;height:69px;"></li>
       {% endfor %}
     {% endif %}
   </ul>
