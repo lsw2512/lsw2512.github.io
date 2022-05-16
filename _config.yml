@@ -108,9 +108,9 @@ author:
   location         : "UK"
   email            : lukewilson2512@protonmail.com
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "lukewilson2512@protonmail.com"
+    - #label: "Email"
+      #icon: "fas fa-fw fa-envelope-square"
+      #url: "lukewilson2512@protonmail.com"
     - #label: "Website"
       #icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -157,6 +157,7 @@ include:
   - OSINT
   - Recipies
   - Cocktails
+  - assest
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
