@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "Luke Wilson"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/unnamed.jpg"
   bio              : "Cybersecurity Proffesional."
   location         : "UK"
   email            : lukewilson2512@protonmail.com
