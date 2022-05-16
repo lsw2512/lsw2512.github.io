@@ -148,8 +148,8 @@ footer:
     - label: "linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/luke-wilson-593720196"
-    images: 
-      - image: "/assets/images/mbcs-logo-colour-300x138.jpg"
+  images: 
+    - image: "/assets/images/mbcs-logo-colour-300x138.jpg"
 
 # Reading Files
 include:
