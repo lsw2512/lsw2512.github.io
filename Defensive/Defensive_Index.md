@@ -6,12 +6,17 @@ layout: single
 ---
 ## Phishing
 
-[Phishing_Intro](/Phishing_Intro/)
-[Phishing_Tools](/Phishing_Tools/)
+[Phishing Introduction](/Phishing_Intro/)
+
+[Phishing Tools](/Phishing_Tools/)
+
 [Types of Phishing](/Types_of_Phishing/)
-[Phishing_Tactics](/Phishing_Tactics/)
-[Investigating_Phishing](/Investigating_Phishing/)
-[Analysing_Phishing](/Analysing_Phishing/)
+
+[Phishing Tactics](/Phishing_Tactics/)
+
+[Investigating Phishing](/Investigating_Phishing/)
+
+[Analysing Phishing](/Analysing_Phishing/)
 
 ## Threat Intelligence
 
