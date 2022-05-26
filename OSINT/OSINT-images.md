@@ -59,6 +59,6 @@ Record location, device data, date/time.
 
 ## Image and Location Tools
 
-sudo apt install libimage-exiftool-perl exiftool <img>
+`sudo apt install libimage-exiftool-perl exiftool <img>`
 
 Use on images to get locations
