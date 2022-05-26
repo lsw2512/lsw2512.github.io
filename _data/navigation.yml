@@ -6,6 +6,8 @@ main:
     url: /pentest-index/
   - title: "OSINT"
     url: /OSINT-Index/
+  - title: "Defensive"
+    url: /Defensive_Index/
   - title: "Recipies"
     url: /Recipies-Index/
   - title: "Cocktails"
