@@ -68,7 +68,7 @@ Features:
 - --profile=win..
 ### Command List
 
-
+```
 volatility -f memdump.mem imageinfo // Take memory image “memdump.mem” and determine the suggested profile for analysis. The profile is the operating system, version, and architecture.
 volatility -f memdump.mem --profile=PROFILE pslist // Take memory image, provide the profile, then use the pslist plugin to print a list of processes to the terminal.
 volatility -f memdump.mem --profile=PROFILE pstree // Use the pstree plugin to print a process tree to the terminal.
@@ -79,3 +79,4 @@ volatility -f memdump.mem --profile=PROFILE timeliner // Use the timeliner plugi
 volatility -f memdump.mem --profile=PROFILE iehistory // Use the iehistory plugin to pull internet browsing history.
 volatility -f memdump.mem --profile=PROFILE filescan // Use the filescan plugin to identify any files on the system from the memory image.
 volatility -f memdump.mem --profile=PROFILE dumpfiles -n --dump-dir=./ // Use the dumpfiles plugin to retrieve files from the memory image. In this case our terminal is open in the Desktop (root@SBTLab2:~/Desktop) and we are using the output location ./ which tells Volatility to put the files in our current location, the Desktop.
+```
