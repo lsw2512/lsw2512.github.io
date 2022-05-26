@@ -114,7 +114,7 @@ Download sysmon, go to directory and run sysmon -i
 - Uses sql to explore data
 - Creates one agent for multiple OS
 
-##Aggregation
+## Aggregation
 - Process of collecting logs, parsing them, extracting structured data then putting them in a format that's easy to understand
 - Syslog - standard logging protocol, syslog server can be set up which receives logs from multiple sources
 - Event Streaming -  Protocols like SNMP, Netflow adn IPFIX allow network devices to provide standard information about their operations.
