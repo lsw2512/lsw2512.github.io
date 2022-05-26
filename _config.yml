@@ -159,6 +159,7 @@ include:
   - Recipies
   - Cocktails
   - assest
+  - Defensive
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
