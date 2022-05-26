@@ -9,9 +9,9 @@ author-profile: true
 
 ## Nmap
 
-nmap <ip>
+`nmap <ip>`
 
-nmap -sV -sC -p- <ip>
+`nmap -sV -sC -p- <ip>`
 
 `locate scripts/citrix`                                            
 List various available nmap scripts
@@ -19,25 +19,25 @@ List various available nmap scripts
 `nmap --script smb-os-discovery.nse -p445 10.10.10.40`             
 Run an nmap script on an IP 
 
--sC                                                                
+`-sC`
 scripts should be used
 
--sV                                                                
+`-sV`                                                               
 perform a version scan
 
--p-                                                                
+`-p-`                                                                
 all ports
 
--sV –script=banner                                                 
+`-sV –script=banner`
 banner grab
 
--sS                                                                
+`-sS`                                                                
 Stealth Scan
 
--sn                                                                
+`-sn`                                                              
 ping scan
 
--sU                                                                
+`-sU`                                                                
 UDP scan
   
 ## Netcat
@@ -45,21 +45,21 @@ UDP scan
 `netcat 10.10.10.10 22`                                            
 Grab banner of an open port 
 
-Nc -nv     <ip> <port>                                             
+`Nc -nv     <ip> <port>`                                             
 grabs banner with netcat
 
 ## SS
 
-ss -tulpn
+`ss -tulpn`
 Tell us what socket connections are running.
-
+```
 -t display TCP sockets
 -u display UDP sockets
 -l display listening sockets
 -p show the process
 -n doesn’t resolve service name
-
-Ssh -L 10000:localhost:10000 <username>@<ip>
+```
+`Ssh -L 10000:localhost:10000 <username>@<ip>`
 Connects to a socket we fi=ound from ss scan
 
 Fullhunt.io
@@ -69,4 +69,4 @@ https://fullhunt.io/
   
 If you have a port open with unknown service you can do this to find out which service it might be.
   
-nmap -d <ip> 8000
+`nmap -d <ip> 8000`
