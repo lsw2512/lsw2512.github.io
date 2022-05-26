@@ -24,29 +24,32 @@ VRFY - Asks the server to verify if the email user's mailbox exists.
 ## Manually
 
 We can use this service to find out which usernames are in the database. This can be done in the following way.
-
+```
 nc ip                                                                              
 
 telnet ip
-
+```
 ## Automated
 This process can of course be automatized
 
 Check for commands
 
+### nmap
+```
 nmap -script smtp-commands.nse <ip>
-
-smtp-user-enum
+```
+### smtp-user-enum
 The command will look like this. -M for mode. -U for userlist. -t for target
-
+```
 smtp-user-enum -M VRFY -U /root/sectools/SecLists/Usernames/Names/names.txt -t <ip>
-
+```
   
 ## Metasploit
 
 It can also be done using metasploit
+```
 msf > use auxiliary/scanner/smtp/smtp_enum 
-
+```
 ## SMTP documents
   
 https://cr.yp.to/smtp/vrfy.html
