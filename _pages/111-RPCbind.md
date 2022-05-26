@@ -7,5 +7,6 @@ author-profile: true
 
 Rpcbind can help us look for NFS-shares. So look out for nfs. Obtain list of services running with RPC:
 
-```rpcbind -p <ip>
+```
+rpcbind -p <ip>
 ```
