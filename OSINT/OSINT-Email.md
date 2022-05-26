@@ -22,14 +22,14 @@ used to gather a lot of information
 
 If you search too much some sources will stop working
 
-theHarvester -d domain.com -b google -l 500 
+`theHarvester -d domain.com -b google -l 500`
 
 ## Breach Parse
 
-./breach-parse.sh @tesla.com tesla.txt h8mail -t shark@tesla.com -bc "/opt/breach-parse/BreachCompilation/" -sk
+`./breach-parse.sh @tesla.com tesla.txt h8mail -t shark@tesla.com -bc "/opt/breach-parse/BreachCompilation/" -sk`
 
 ## H8mail
 
 Looks at specific target
 
-H8mail -t target@domain.com
+`H8mail -t target@domain.com`
