@@ -9,8 +9,10 @@ Common UNIX Printing System has become the standard for sharing printers on a li
 
 You authenticate with the OS-users.
 
-Find a version. Test cups-config --version. 
-
+Find a version. 
+```
+Test cups-config --version. 
+```
 If this does not work surf to http://localhost:631/printers and see the CUPS version in the title bar of your browser.
 
 There are vulnerabilities for it so check your searchsploit.
