@@ -10,5 +10,6 @@ Telnet is considered insecure mainly because it does not encrypt its traffic. Al
 Brute force it
 
 You can also brute force it like this:
-
+```
 hydra -l root -P /root/SecLists/Passwords/10_million_password_list_top_100.txt <ip> telnet
+```
