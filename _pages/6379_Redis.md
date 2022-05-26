@@ -1,6 +1,6 @@
 ---
-title: "3796 - Redis"
-permalink: /3796_Redis/
+title: "6379 - Redis"
+permalink: /6379_Redis/
 layout: single
 author-profile: true
 ---
