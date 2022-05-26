@@ -9,14 +9,14 @@ Always test the following:
 Username: root
 
 Password: root
+```
+mysql --host=<ip> -u root -p
+mysql -h <Hostname> -u root
+mysql -h <Hostname> -u root@localhost
+mysql -h <Hostname> -u ""@localhost
 
-- mysql --host=<ip> -u root -p
-- mysql -h <Hostname> -u root
-- mysql -h <Hostname> -u root@localhost
-- mysql -h <Hostname> -u ""@localhost
-
-- telnet ip 3306
-
+telnet ip 3306
+```
 You will most likely see this a lot:
 
 ERROR 1130 (HY000): Host '192.168.0.101' is not allowed to connect to this MySQL server
@@ -24,9 +24,9 @@ ERROR 1130 (HY000): Host '192.168.0.101' is not allowed to connect to this MySQL
 This occurs because mysql is configured so that the root user is only allowed to log in from 127.0.0.1. This is a reasonable security measure put up to protect the database.
 
 ## Configuration files
-
+```
 cat /etc/my.cnf
-
+```
 http://www.cyberciti.biz/tips/how-do-i-enable-remote-access-to-mysql-database-server.html
 
 ## Mysql-commands cheat sheet
@@ -47,11 +47,11 @@ You might gain access to a shell by uploading a reverse-shell. And then you need
 So the first step is to find the login-credentials for the database. Those are usually found in some configuration-file on the web-server. 
   
 For example, in joomla they are found in:
-
+```
 /var/www/html/configuration.php
-
+```
 In that file you find the file:
-
+```
 '' <?php
 
  class JConfig {
@@ -72,3 +72,4 @@ In that file you find the file:
     
  var $offline_message = 'This site is down for maintenance. Please check back again soon.';
     }''
+```
