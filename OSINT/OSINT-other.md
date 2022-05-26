@@ -9,17 +9,19 @@ author-profile: true
 - Marketplace search - shows all tools
 - Marketplace install hackertarget 
 - Modules load hackertarget
-- Info
-- Options set source domain.com
-- Run
-
-- Marketplace install profiler
-- Modules load profiler
-- Info
-- Options set source username
-
+```
+Info
+Options set source domain.com
+Run
+```
+```
+Marketplace install profiler
+Modules load profiler
+Info
+Options set source username
+```
 ## OSINT Automation script (needs editing)
-
+```
 '#!/bin/bash 
 domain=$1 
 RED="\033[1;31m" 
@@ -62,3 +64,4 @@ cat $subdomain_path/found.txt | grep $domain | sort -u | httprobe -prefer-https 
 
 echo -e "${RED} [+] Taking dem screenshotz...${RESET}"
 gowitness file -f $subdomain_path/alive.txt -P $screenshot_path/ --no-http'
+```
