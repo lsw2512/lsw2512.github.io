@@ -17,5 +17,5 @@ author-profile: true
 - Snapchat on the web can be used for username enumeration.
 - On snapchat you can see potential usernames
 - Username and account tools
-- whatsmyname -u thecybermentor
-- sherlock thecybermentor
+`whatsmyname -u thecybermentor`
+`sherlock thecybermentor`
