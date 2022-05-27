@@ -160,6 +160,7 @@ include:
   - Cocktails
   - assest
   - Defensive
+  - Web
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
