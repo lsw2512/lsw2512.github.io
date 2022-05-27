@@ -228,79 +228,89 @@ Local access can allow for password retrieval.
 - Look at email server logs
 - Monitor processes
 
-## Audio Capture T1123
-An attacker can utilise peripheral devices to collect audio. This could be confidential information.
-APT37 uses soundwave to capture audio information like this.
+### Audio Capture T1123
+- An attacker can utilise peripheral devices to collect audio. This could be confidential information.
+- AP  T37 uses soundwave to capture audio information like this.
 
-Difficult to detect
-Look for unusual use of recording software compared to the users role
-Screen Capture T1133
-Taking screen captures can help gather information
-Look for CopyFromScreen, XWD or screen capture
-Agent Tesla is a famous Remote Access Trojan which is used for this
-Look for unusual processors which can be used to correlate with other events
-Data From local system T1005
-Attackers can search through any attached local or network drives to find interesting or sensitive information
-To help this commands like find tree locate and dir will help
-GravityRAT steals files with extensions: .docx, .doc, .pptx, .ppt, .xlsx, .xls, .rtf and .pdf
-Inception uses a file hunting plugin to collect .txt, .pdf, .xls or .doc
+- Difficult to detect
+- Look for unusual use of recording software compared to the users role
 
-Monitor processes and command line arguments can be collected 
+### Screen Capture T1133
+- Taking screen captures can help gather information
+- Look for CopyFromScreen, XWD or screen capture
+- Agent Tesla is a famous Remote Access Trojan which is used for this
+- Look for unusual processors which can be used to correlate with other events
 
-Command and Control
-Application Layer Protocol T1071
-T1071.001 - web protocols
-T1071.002 - File Transfer Protocols
-T1071.003 - Mail Protocols
-T1071.004 - DNS
+### Data From local system T1005
+- Attackers can search through any attached local or network drives to find interesting or sensitive information
+- To help this commands like find tree locate and dir will help
+- GravityRAT steals files with extensions: .docx, .doc, .pptx, .ppt, .xlsx, .xls, .rtf and .pdf
+- Inception uses a file hunting plugin to collect .txt, .pdf, .xls or .doc
 
-Adversaries use application layer protocols to blend in with standard traffic
-Cobalt strike is a popular attack platform for both penetration testers and malicious actors.
-SMB is common for this
+- Monitor processes and command line arguments can be collected 
 
-Analyze network for uncommon data flows
-Processors utilizing the network which do not normally have network communications
-Analyze packet contents that do not follow standards
-Web Service T1102
-Adversaries may use an existing legitimate external web service as a means of relaying data
-Popular websites can give a good cover for C2
-Look for unusual network connections or network connections that happen at strange times
-Look for uncommon data flows
-Non-Standard Port T1571
-Adversaries may use a non standard port to try and bypass filtering.
-APT33 uses HTTP over 808 and 880 instead of 80.
-BADCALL malware uses 443 and 8000 using FakeTLS
-Exfiltration
-EXFIL over C2 Channel T1041
-Extracting data using the C2 channel
-Use a NIDS to detect
-Analyze network data for uncommon data flows
-Processes utilizing the network that do not normally have communications are suspicious
-Scheduled Transfer T1029
-Adversaries may schedule data exfiltration to only occur at specific times to evade NIDS.
-ADVSTORESHELL malware collects data, compresses it, encrypts it and uploads it every ten minutes 
-Cobalt strike can set the beacon payload to random intervals making it harder to spot.
-Monitor network
-Impact
-Account Access Removal T1531
-Removing access to accounts
-Can be done by deleting, locking or changing passwords
-Very noisy so most likely done after the attackers objectives are complete unless their objective is to disrupt business
-Monitor for changes to user accounts: Event ID 4723, 4724, 4726 and 4740
-Defacement T1491
-T1491.001 - Internal Defacement
-T1491.002 - External Defacement
-Change content
-Do this to deliver message, intimidation or to claim intrusion or make it look like someone else is responsible for the attack
-Monitor for unplanned content changes.
-Data Encryption T1386
-Ransomware
-Work to encrypt files and data and withhold the encryption key.
-Since this affects local accounts, there needs to be a way for it to spread
-Use process monitoring to look for execution of binaries involved in data destruction like vssadmin, wbadmin or bcdedit.
-Look for large quantities of file modifications
-Uses of ATT&CK
-Threathunting - keep track of what has manually been searched for in a hunt
-adversary emulation - use to track what methods APTS use to simulate specific APT attacks
-Threat Detection - go through and check for alerts for each one to see which ones need detection rules improving
- https://mitre-attack.github.io/attack-navigator/enterprise/
+## Command and Control
+### Application Layer Protocol T1071
+- T1071.001 - web protocols
+- T1071.002 - File Transfer Protocols
+- T1071.003 - Mail Protocols
+- T1071.004 - DNS
+
+- Adversaries use application layer protocols to blend in with standard traffic
+- Cobalt strike is a popular attack platform for both penetration testers and malicious actors.
+- SMB is common for this
+
+- Analyze network for uncommon data flows
+- Processors utilizing the network which do not normally have network communications
+- Analyze packet contents that do not follow standards
+
+### Web Service T1102
+- Adversaries may use an existing legitimate external web service as a means of relaying data
+- Popular websites can give a good cover for C2
+- Look for unusual network connections or network connections that happen at strange times
+- Look for uncommon data flows
+
+### Non-Standard Port T1571
+- Adversaries may use a non standard port to try and bypass filtering.
+- APT33 uses HTTP over 808 and 880 instead of 80.
+- BADCALL malware uses 443 and 8000 using FakeTLS
+
+## Exfiltration
+### EXFIL over C2 Channel T1041
+- Extracting data using the C2 channel
+- Use a NIDS to detect
+- Analyze network data for uncommon data flows
+- Processes utilizing the network that do not normally have communications are suspicious
+
+### Scheduled Transfer T1029
+- Adversaries may schedule data exfiltration to only occur at specific times to evade NIDS.
+- ADVSTORESHELL malware collects data, compresses it, encrypts it and uploads it every ten minutes 
+- Cobalt strike can set the beacon payload to random intervals making it harder to spot.
+- Monitor network
+
+## Impact
+### Account Access Removal T1531
+- Removing access to accounts
+- Can be done by deleting, locking or changing passwords
+- Very noisy so most likely done after the attackers objectives are complete unless their objective is to disrupt business
+- Monitor for changes to user accounts: Event ID 4723, 4724, 4726 and 4740
+
+### Defacement T1491
+- T1491.001 - Internal Defacement
+- T1491.002 - External Defacement
+- Change content
+- Do this to deliver message, intimidation or to claim intrusion or make it look like someone else is responsible for the attack
+- Monitor for unplanned content changes.
+
+### Data Encryption T1386
+- Ransomware
+- Work to encrypt files and data and withhold the encryption key.
+- Since this affects local accounts, there needs to be a way for it to spread
+- Use process monitoring to look for execution of binaries involved in data destruction like vssadmin, wbadmin or bcdedit.
+- Look for large quantities of file modifications
+
+## Uses of ATT&CK
+- Threathunting - keep track of what has manually been searched for in a hunt
+- adversary emulation - use to track what methods APTS use to simulate specific APT attacks
+- Threat Detection - go through and check for alerts for each one to see which ones need detection rules improving
+- https://mitre-attack.github.io/attack-navigator/enterprise/
