@@ -37,5 +37,9 @@ author-profile: true
 2. Remove the mince from the pan then add another tablespoon of oil with the onion, garlic, celery and a pinch of salt. Sweat until soft, about 8 minutes
 3. Add the mince back into the pan along with the wine and bay leaf. Cook until the wine has reduced by half then add the tomatoes and milk. Leave on a low heat to simmer for an hour
 4. Meanwhile, prepare the béchamel. Heat the butter and flour in a pan and stir to create a paste (this is called a roux). Cook out the roux for a minute or so to avoid a floury taste to your sauce
-
+5. Whisk in the warm milk bit by bit to avoid lumps. Add the bay leaf, nutmeg and a pinch of salt and simmer for 5 minutes, stirring continuously until thickened
+6. When ready, the ragu should have a thick velvety texture; not too loose to fit in a piping bag, but not too dry otherwise it won't cook the pasta. When you're happy with the texture, preheat an oven to 180°C/gas mark 4
+7. If using fresh pasta, blanch the sheets in salted boiling water then plunge into iced water. Spoon the mixture along the length of each sheet, then roll into tubes and place in an ovenproof dish, seam-side down
+8. If using dried cannelloni tubes, you will need a piping bag to fill them. Once you have a dish full of ragù-filled pasta tubes, spoon any leftover ragu into the dish around the edges of the pasta, then top with the béchamel sauce and cover in grated Parmesan
+9. Bake the cannelloni for 40–50 minutes until golden and bubbling, then serve
 
