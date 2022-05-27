@@ -161,6 +161,7 @@ include:
   - assest
   - Defensive
   - Web
+  - Write_Ups
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
