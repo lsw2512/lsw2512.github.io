@@ -10,6 +10,8 @@ main:
     url: /OSINT-Index/
   - title: "Defensive"
     url: /Defensive_Index/
+  - title: "Writeups"
+    url: /Writeup_Index/
   - title: "Recipies"
     url: /Recipies-Index/
   - title: "Cocktails"
