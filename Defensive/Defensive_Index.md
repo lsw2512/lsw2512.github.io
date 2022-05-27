@@ -44,10 +44,22 @@ layout: single
 
 ## SIEM
 
-[SIEM_Intro](/SIEM_Intro/)
+[SIEM Intro](/SIEM_Intro/)
 
-[SIEM_Logging](/SIEM_Logging/)
+[SIEM Logging](/SIEM_Logging/)
 
-[SIEM_Correlation](/SIEM_Correlation/)
+[SIEM Correlation](/SIEM_Correlation/)
 
 ## Incident Response
+
+[Incident Response Intro](/Incident_Response_Intro/)
+
+[Incident Response Prep](/Incident_Response_Prep/)
+
+[Incident Response D&A](/Incident_Response_D&A/)
+
+[Incident Response CER](/Incident_Response_CER/)
+
+[Incident Response LLR](/Incident_Response_LLR/)
+
+[MITRE ATT&CK](/MITRE_ATT&CK/)
