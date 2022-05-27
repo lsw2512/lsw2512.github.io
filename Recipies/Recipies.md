@@ -30,10 +30,65 @@ author-profile: true
 [Chicken Schnitzel With Bacon and White Wine](/Chicken_Schnitzel/)
 
 ## Indian
+
+[Bhuna](/Bhuna/)
+
+[Jalfrezi](/Jalfrezi/)
+
+[Kerala Prawn](/Kerala_Prawn/)
+
 ## Italian
+
+[Fresh Pasta](/Fresh_Pasta/)
+
+[Tomato Sauce](/Tomato-Sauce/)
+
+[Sun Dried Tomato and olive focaccia](/focaccia/)
+
+[meatball lasagne](/meatball_lasagne/)
+
+[Skillet Lasagna](/Skillet_Lasagna/)
+
+[Ravioli lasagna](/Ravioli_lasagna/)
+
+[Sausage and white wine risotto](/white_wine_risotto/)
+
 ## Mexican
+
+[Chilli](/Chilli/)
+
+[Fajitas Bake](/Fajitas_Bake/)
+
+[Huevos rancheros](/Huevos_rancheros/)
+
+[Guacamole](/Guacamole/)
+
+[Cheese Sauce](/Cheese_Sauce/)
+
+[Salsa](/Salsa/)
+
 ## Moroccan
+
+[Moroccan Pastilla](/Moroccan_Pastilla/)
+
+[Moroccan tagine](/Moroccan_tagine/)
+
 ## Scottish
+
+[Chicken balmoral](/Chicken_balmoral/)
+
 ## Southern USA
+
+[jambalaya](/jambalaya/)
+
+[Fried Chicken](/Fried_Chicken/)
+
 ## Thai
+
+[Thai Yellow chicken curry](/Thai_Yellow/)
+
+[Thai Red chicken curry](/Thai_Red/)
+
 ## Desserts
+
+[Banana_Foster](/Banana_Foster/)
