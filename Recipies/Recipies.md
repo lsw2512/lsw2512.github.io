@@ -53,6 +53,10 @@ author-profile: true
 
 [Sausage and white wine risotto](/white_wine_risotto/)
 
+[Rigatoni imbottiti](/Rigatoni_imbottiti/)
+
+[Cannelloni di carne](/Cannelloni_di_carne/)
+
 ## Mexican
 
 [Chilli](/Chilli/)
