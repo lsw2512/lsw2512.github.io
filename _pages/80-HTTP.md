@@ -103,3 +103,8 @@ At the end of a URL, you can add
 {{1+1}}
 ```
 if this comes back with 'page 2 cannot be found', it means that python can be used to execute commands between these brackets {{}}.
+
+# Feroxbuster
+used to brute force recursive directories
+
+https://github.com/epi052/feroxbuster.git
