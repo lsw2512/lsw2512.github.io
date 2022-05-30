@@ -60,7 +60,7 @@ Host script results:
 |_      https://technet.microsoft.com/en-us/library/security/ms17-010.aspx
 ```
 
-#Exploit
+# Exploit
 After finding smb is vulnerable to ms08-067, I used metasploit to gain a shell.
 ```
 msf6 exploit(windows/smb/ms08_067_netapi) > show options
