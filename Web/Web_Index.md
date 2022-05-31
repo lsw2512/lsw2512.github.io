@@ -7,6 +7,8 @@ author-profile: true
 # Server-side topics
 ## SQL Injection
 
+- [SQL Cheatsheet](/SQL-Cheatsheet/)
+
 ## Authentication
 
 ## Directory Traversal
