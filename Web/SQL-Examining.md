@@ -42,36 +42,36 @@ You can query information_schema.tables to list the tables in the database:
 ``SELECT * FROM information_schema.tables``
 
 This returns output like the following:
-
+```
 TABLE_CATALOG  TABLE_SCHEMA  TABLE_NAME  TABLE_TYPE
 =====================================================
 MyDatabase     dbo           Products    BASE TABLE
 MyDatabase     dbo           Users       BASE TABLE
 MyDatabase     dbo           Feedback    BASE TABLE
- 
+``` 
 This output indicates that there are three tables, called Products, Users, and Feedback.
  
 You can then query information_schema.columns to list the columns in individual tables:
 
-SELECT * FROM information_schema.columns WHERE table_name = 'Users'
+``SELECT * FROM information_schema.columns WHERE table_name = 'Users'``
 
 This returns output like the following:
-
+```
 TABLE_CATALOG  TABLE_SCHEMA  TABLE_NAME  COLUMN_NAME  DATA_TYPE
 =================================================================
 MyDatabase     dbo           Users       UserId       int
 MyDatabase     dbo           Users       Username     varchar
 MyDatabase     dbo           Users       Password     varchar
-
+```
 This output shows the columns in the specified table and the data type of each column.
 
-Equivalent to information schema on Oracle
+### Equivalent to information schema on Oracle
 On Oracle, you can obtain the same information with slightly different queries.
 
 You can list tables by querying all_tables:
 
-SELECT table_name FROM all_tables
+``SELECT table_name FROM all_tables``
 
 And you can list columns by querying all_tab_columns:
 
-SELECT * FROM all_tab_columns WHERE table_name = 'USERS'
+``SELECT * FROM all_tab_columns WHERE table_name = 'USERS'``
