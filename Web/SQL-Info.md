@@ -22,6 +22,7 @@ If you have a URL:
 ``https://insecure-website.com/products?category=Gifts``
 
 This will query the database like this:
+
 ``SELECT * FROM products WHERE category = 'Gifts' AND released = 1``
 
 This asks the data base to return `*` all details, from the products table, where the category is gifts and released is 1.
