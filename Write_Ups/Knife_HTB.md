@@ -121,7 +121,7 @@ $ ls /home/james
 user.txt
 
 $ cat /home/james/user.txt
-ad07732c7b1144f5f181e47c8cf73dbf
+ad07732c7b1144f5f181e47c********
 ```
 ##Privilege Escelation
 The first thing to do when looking to privesc on linux is see what your user can run. This showed me it can run a knife command.
@@ -151,5 +151,5 @@ delete.sh
 root.txt
 snap
 cat root.txt
-897d6db0dc46327655455952469107e3
+897d6db0dc46327655455952********
 ```
