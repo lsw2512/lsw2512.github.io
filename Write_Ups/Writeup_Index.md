@@ -10,3 +10,5 @@ author-profile: true
 [Legacy - HTB](/Legacy_HTB/)
 
 [Cap - HTB](/Cap_HTB/)
+
+[Knife - HTB](/Knife_HTB/)
