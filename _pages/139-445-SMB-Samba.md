@@ -69,9 +69,24 @@ For info about it ere: https://labs.portcullis.co.uk/tools/enum4linux/
 You can also use rpcclient to enumerate the share.
 
 Connect with a null-session. That is, without a user. This only works for older windows servers.
+
+# Connecting to an IPC$ share
+
+IPC is used for interprocess communications
+
+This can be connected to by RPCclient
+
+rpcclient -U 'user%passwd' 10.10.10.149
 ```
 rpcclient -U "" <ip>
 ```
+
+## rpcclient commands
+
+- I can use the `lookupnames` command to get the SIDs of the users
+- I can also look up accounts by SID, by using `lookupsids`
+
+Impacket also has a tool for looking up sids
 
 Once connected you could enter commands like
 ```  
@@ -90,3 +105,5 @@ This can be used to potential credentials to rute force smb logins.
 ``crackmapexec smb 10.10.10.149 -u users -p passwords``
 
 After valid credentials are found, if smbclient does not work use smbmap.
+
+
