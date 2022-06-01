@@ -82,3 +82,11 @@ querydominfo
 netshareenum
 netshareenum all
 ```
+
+# Crackmapexec
+
+This can be used to potential credentials to rute force smb logins.
+
+``crackmapexec smb 10.10.10.149 -u users -p passwords``
+
+After valid credentials are found, if smbclient does not work use smbmap.
