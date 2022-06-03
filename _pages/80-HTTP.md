@@ -72,6 +72,12 @@ Nikto -h https://<IP>
 ```
 Davtest -url <url>
 ```
+
+## Joomla
+joomscan
+
+``joomscan -u <URL>``
+
 # BurpSuite
 
 ## Credential stuffing
