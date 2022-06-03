@@ -26,7 +26,7 @@ author-profile: true
 
 [comment]: <> (## File Upload Vulnerabilities)
 
-[comment]: <> (## Server-side request forgery (SSRF))
+[comment]: <> (## Server-side request forgery SSRF)
 
 [comment]: <> (## XXE Injection)
 
@@ -38,9 +38,9 @@ author-profile: true
 - [Stored XXS](/XSS-Stored/)
 - [DOM XXS](/XXS-Dom/)
 
-[comment]: <> (## Cross-site request forgery (CSRF))
+[comment]: <> (## Cross-site request forgery CSRF)
 
-[comment]: <> (## Cross-origin resource sharing (CORS))
+[comment]: <> (## Cross-origin resource sharing CORS)
 
 [comment]: <> (## Clickjacking)
 
