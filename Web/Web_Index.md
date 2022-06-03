@@ -12,9 +12,9 @@ author-profile: true
 - [SQL Union Attack](/SQL-Union/)
 - [SQL Blind Injections](/SQL-Blind/)
 
-## Authentication
+[comment]: <> (## Authentication)
 
-## Directory Traversal
+[comment]: <> (## Directory Traversal)
 
 ## Command Injection
 
