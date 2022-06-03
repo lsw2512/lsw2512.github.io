@@ -68,3 +68,10 @@ key = static_key[start:] + static_key[:start]
 plain = ''.join([chr(x ^ ord(key[i % len(key)]))  for i, x in enumerate(enc)])
 print(plain)
 ```
+
+## password backup
+
+to decrypt a password backup you need to use xxd
+
+`xxd -r passwordbackup`
+
