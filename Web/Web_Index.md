@@ -16,19 +16,19 @@ author-profile: true
 
 [comment]: <> (## Directory Traversal)
 
-## Command Injection
+[comment]: <> (## Command Injection)
 
-## Business Logic Vulnerabilities
+[comment]: <> (## Business Logic Vulnerabilities)
 
-## Information Disclosure
+[comment]: <> (## Information Disclosure)
 
-## Access Control
+[comment]: <> (## Access Control)
 
-## File Upload Vulnerabilities
+[comment]: <> (## File Upload Vulnerabilities)
 
-## Server-side request forgery (SSRF)
+[comment]: <> (## Server-side request forgery (SSRF))
 
-## XXE Injection
+[comment]: <> (## XXE Injection)
 
 # Client Side Topics
 ## Cross-site scripting (XSS)
@@ -38,12 +38,12 @@ author-profile: true
 - [Stored XXS](/XSS-Stored/)
 - [DOM XXS](/XXS-Dom/)
 
-## Cross-site request forgery (CSRF)
+[comment]: <> (## Cross-site request forgery (CSRF))
 
-## Cross-origin resource sharing (CORS)
+[comment]: <> (## Cross-origin resource sharing (CORS))
 
-## Clickjacking
+[comment]: <> (## Clickjacking)
 
-## DOM-based vulnerabilites
+[comment]: <> (## DOM-based vulnerabilites)
 
-## Web Sockets
+[comment]: <> (## Web Sockets)
