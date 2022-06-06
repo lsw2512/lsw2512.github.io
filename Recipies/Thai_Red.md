@@ -1,5 +1,5 @@
 ---
-title: "Deobfuscation"
+title: "Thai Red Chicken Curry"
 permalink: /Thai_Red/
 layout: single
 author-profile: true
