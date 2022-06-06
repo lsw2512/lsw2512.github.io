@@ -1,5 +1,5 @@
 ---
-title: "/Bhuna/"
+title: "Bhuna"
 permalink: /Bhuna/
 layout: single
 author-profile: true
