@@ -80,7 +80,7 @@ Follow on screen prompt
 - Select targets like web browsers
 - Click execute and a terminal will appear
 
-##Evidence Destruction
+## Evidence Destruction
 After a case, evidence must be securely destroyed
 
 ### Degaussing
