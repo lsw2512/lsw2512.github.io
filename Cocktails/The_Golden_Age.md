@@ -6,7 +6,7 @@ author-profile: true
 ---
 
 ## Ingredients
-- 3 tablespoons plus 1 teaspoon golden rum (preferably Flor de Caña Gold)
+- 3 tablespoons plus 1 teaspoon golden rum 
 - 1 tablespoon plus 2 teaspoons Cynar (artichoke liqueur)
 - 1 tablespoon plus 1 tsp. fino Sherry
 - 2 teaspoons Licor 43 (Spanish liqueur)
