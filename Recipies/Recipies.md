@@ -93,6 +93,11 @@ author-profile: true
 
 [Thai Red chicken curry](/Thai_Red/)
 
+## Sides
+
+[golden corn fritters](/Corn_Fritters/)
+[deviled egg potato salad](/Deviled_Salad/)
+
 ## Desserts
 
 [Banana_Foster](/Banana_Foster/)
