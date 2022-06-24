@@ -40,3 +40,11 @@ author-profile: true
 [Spiced Pear](/Spiced_Pear/)
 
 [Spice 75](/Spice_75/)
+
+[Mojito](/Mojito/)
+
+[Daiquiri](/Daiquiri/)
+
+[The Golden Age](/The_Golden_Age/)
+
+[Dark Moon](/Dark_Moon/)
