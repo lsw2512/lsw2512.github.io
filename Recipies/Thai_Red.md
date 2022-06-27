@@ -18,13 +18,16 @@ author-profile: true
 - 2 level dessert spoons hot paprika
 
 ### Method
-1. Begin by splitting the chillies in half and removing and discarding the seeds.
-2. Now take a small frying pan and pre-heat it over a medium heat, then add the coriander and cumin seeds and toss them around in the dry pan to roast them and draw out their flavours.
-3. After about 5 minutes tip them into a mortar and crush them finely to a powder. Now simply place the chillies, spices and all the other ingredients in a food processor and whiz them to a coarse paste.
+1. Dry fry the coriander and cumin seeds then crush with a Mortar and pestle.
+3. add the powder and all other ingredients into a food processor and chop until its a fine paste.
+
+## Ginger and Garlic Puree
+1.get enough of ginger and garlic to make 1 spoonfull of puree peel and cut small then cover in olive oil and wrap in tinfoil.
+2. bake them in the oven until they are soft.
+3. Transfer them to a Mortar and pestle and make into a puree, add a little water if needed.
 
 ## Curry
 ### Ingredients
-- 1 tbsp vegetable oil
 - 1 tbsp ginger & garlic paste
 - 5-6 tbsp red curry paste
 - 800ml coconut milk
