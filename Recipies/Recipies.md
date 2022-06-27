@@ -25,7 +25,7 @@ author-profile: true
 [Tourtièree](/Tourtière/)
 
 ## French
-[French-style chicken with peas & bacon](/French-chicken/)
+[French chicken with peas & bacon](/French-chicken/)
 
 [Chicken Schnitzel](/Chicken_Schnitzel/)
 
@@ -42,8 +42,6 @@ author-profile: true
 [Fresh Pasta](/Fresh_Pasta/)
 
 [Tomato Sauce](/Tomato-Sauce/)
-
-[Sun Dried Tomato and olive focaccia](/focaccia/)
 
 [meatball lasagne](/meatball_lasagne/)
 
