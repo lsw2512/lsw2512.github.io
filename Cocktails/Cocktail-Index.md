@@ -48,3 +48,9 @@ author-profile: true
 [The Golden Age](/The_Golden_Age/)
 
 [Dark Moon](/Dark_Moon/)
+
+[caipirinha](/caipirinha/)
+
+[Blue Hawaiian](/Blue_Hawaiian/)
+
+[California Surfer](/California_Surfer/)
