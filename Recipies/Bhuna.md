@@ -20,7 +20,7 @@ author-profile: true
 1. get enough of ginger and garlic to make 1 spoonfull of puree
 2. peel and cut small then cover in olive oil and wrap in tinfoil.
 3. bake them in the oven until they are soft.
-4. transfer them to a pistol and motar and make into a puree, add a little water if needed.
+4. transfer them to a Mortar and pestle and make into a puree, add a little water if needed.
 
 ### Curry
 1. To make the onion purée, bring a small pan of water to the boil and add half the roughly chopped onion. Boil until soft (about 10 mins), drain and puree with a hand blender or mini food processor.
