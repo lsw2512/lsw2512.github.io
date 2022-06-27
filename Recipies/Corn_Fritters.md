@@ -17,8 +17,8 @@ author-profile: true
 - Hot vegetable oil for frying
 
 ## Directions
-### Step 1
-Combine first 4 ingredients in a large mixing bowl; mix well, and set aside. Combine eggs, corn, milk, and 2 teaspoons vegetable oil; mix well. Stir corn mixture into dry ingredients.
 
-### Step 2
-Drop mixture by rounded teaspoonfuls into vegetable oil heated to 375 ˚; cook fritter until golden, turning once. Yield: about 3 dozen.
+1. Combine first 4 ingredients in a large mixing bowl.
+2. Combine eggs, corn, milk, and 2 teaspoons vegetable oil.
+3. Stir corn mixture into dry ingredients.
+4. Deep fry mixture till golden.
