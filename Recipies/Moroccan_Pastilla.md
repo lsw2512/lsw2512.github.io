@@ -7,7 +7,7 @@ author-profile: true
 
 ##  Ingredients
 - 1 tbsp olive oil
-- 4–6 boneless chicken thighs (about 750g)
+- 4–6 boneless chicken thighs 
 - 10g butter
 - 2 onions, finely chopped
 - 2 garlic cloves, finely chopped
@@ -17,23 +17,25 @@ author-profile: true
 - pinch of saffron
 - 500ml chicken stock
 - 4 eggs, beaten
-- 75g ground almonds or pistachios
+- 75g ground pistachios
 - 75g dried dates, finely chopped
 - 1 tbsp orange blossom water
-- 1 tsp orange zest
 - 4 tbsp finely chopped parsley
-- sea salt and freshly ground black pepper
+- sea salt and ground black pepper
 
 ### To assemble                                        
 - 6 large slices of filo pastry
 - 60g butter, melted
 - 1 tbsp icing sugar
-- pinch of cinnamon    
+- pinch of cinnamon
+- grated/crushed pistachios    
     
 ## Method                
-1. Heat the oil in a large frying pan. Add the chicken and fry it skin-side down, until crisped up and brown. Turn the thighs over and cook for a couple more minutes, then remove them from the pan. Add the butter to the pan and when it has melted, add the onions and fry them gently until soft. Add the garlic and spices and fry for a couple more minutes.
-2. Put the chicken back in the pan and pour in the stock or 500ml of water. Season, then cover the pan and simmer for about half an hour or until the chicken is tender. Remove the chicken and set it aside. When it is cool enough to handle, finely chop the meat – it’s up to you whether you keep the skin or not. Put the liquid back over the heat and reduce it by half.
-3. Add the eggs to the cooking liquid and continue to cook over a low heat until you have a mixture that resembles loose scrambled eggs. Add the ground nuts and stir, then add the dates, orange blossom water, zest and finally, the chicken. Remove the pan from the heat and let it cool.
-4. Preheat the oven to 180°C/Fan 160°C/Gas 4. To assemble the pie, you need a large ovenproof dish about 28cm in diameter.
-5. Take a sheet of filo pastry and brush it with melted butter. Drape it over the dish, making sure it is gently pushed into the corners without any tearing. Repeat with another sheet of filo, this time placing it at a right angle to the first. Repeat with a further 2 sheets of filo, this time placing them on the diagonal.
-6. Spread the filling over the pastry. Fold over the overhanging pieces of filo in reverse order – they should just about cover the filling. Take the remaining 2 pieces of filo and cut them to fit the dish. Brush them with butter, then cover the pie, tucking under any corners. Bake the pie in the oven for about 30 minutes until the pastry is a crisp, golden brown. Remove from the oven and allow to cool a little before dusting it with the icing sugar and cinnamon.
+1. Add the chicken to a frying pan, season and fry it skin-side down, until golden. turn over then cook until cooked. 
+2. Melt the butter, add the onions and fry until soft. Add the garlic and spices and fry for a couple more minutes.
+3. Put the chicken back in the pan and pour in the stock. Simmer until chicken in tender, turning half way through. 
+4. Remove the chicken and finely chop. Put the liquid back over the heat and reduce it by half.
+5. Add the eggs and cook until slightly thickened. Add the nuts, dates, orange blossom water and chicken. Remove the pan from the heat and let it cool.
+6. Preheat the oven to 180°C. To assemble the pie, you need a large ovenproof pie dish.
+7. Take a sheet of filo pastry and brush it with melted butter and put in the bottom of the dish. now put pastry sheets going around the sides of the dish in a square. then two final sheets in the bottom of the dish.
+8. Full the dish with the filling, then fold any pastry over the top of the filling. Take the remaining 2 pieces of filo and cut them to fit the dish, brush with butter and bake the pie 30 minutes until Golden. Dust with iceing sugar, cinnamon and grated/crushed pistachios.
