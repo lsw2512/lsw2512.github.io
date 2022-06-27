@@ -1,5 +1,5 @@
 ---
-title: "Three-cheese meatball lasagne"
+title: "meatball lasagne"
 permalink: /meatball_lasagne/
 layout: single
 author-profile: true
@@ -9,23 +9,23 @@ author-profile: true
 - 12 sausages
 - 2 tbsp olive oil
 - 2 onions , chopped
-- 4 garlic cloves , crushed
+- 4 garlic cloves, crushed
 - 2 tsp fennel seeds
-- 2 tsp dried oregano or a small handful of fresh oregano leaves, chopped
-- ½ tsp chilli flakes (optional)
+- 2 tsp dried oregano
+- ½ tsp chilli flakes 
 - 1 tbsp sugar
 - 500ml passata
 - 400g can chopped tomatoes
 - 100g butter
 - 2 bay leaves
 - 100g plain flour
-- 1l milk
-- ¼ fresh nutmeg , finely grated
-- 100g baby spinach
-- handful basil , leaves torn
-- 50g parmesan , grated
-- 250g dried lasagne sheets (about 12 sheets) IO
-- 50g cheddar , grated
+- 1L milk
+- ¼ fresh nutmeg, finely grated
+- 100g baby spinch
+- handful basil, leaves torn
+- 50g parmesan, grated
+- 12 fresh lasagne sheets
+- 50g cheddar, grated
 - 150g ball mozzarella , torn into small pieces
 
 ## Method
