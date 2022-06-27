@@ -6,17 +6,23 @@ author-profile: true
 ---
 ## Ingredients
 - 3 medium onions, 2 finely chopped, 1 roughly chopped
-- 100ml vegetable oil
-- 1 tbsp ginger and garlic purée
-- 1 tbsp mild curry powder
+- equal parts of Ginger and Garlic to make 1 tbsp of puree
+- 1 tbsp curry powder
 - 1 tsp turmeric
 - 1 tsp chilli powder
-- 800g chicken thighs, diced
+- 800g chicken thighs, sliced
 - 100ml natural yogurt
 - 4 tbsp tomato purée
 - 2 tsp garam masala
 
 ## Method
+### Ginger and Garlic Puree
+1. get enough of ginger and garlic to make 1 spoonfull of puree
+2. peel and cut small then cover in olive oil and wrap in tinfoil.
+3. bake them in the oven until they are soft.
+4. transfer them to a pistol and motar and make into a puree, add a little water if needed.
+
+### Curry
 1. To make the onion purée, bring a small pan of water to the boil and add half the roughly chopped onion. Boil until soft (about 10 mins), drain and puree with a hand blender or mini food processor.
 2. Heat a large saucepan on a high heat. Once it's hot add the oil and finely chopped onions and reduce to a low heat. Cook the onions slowly and gently until golden brown in colour, and season.
 3. Add the ginger and garlic purée, curry powder, turmeric, chilli powder and a splash of water to the pan of onions and stir in well. Fry for a couple of mins. Add the diced chicken thighs and stir in well.
