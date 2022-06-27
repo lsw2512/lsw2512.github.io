@@ -1,5 +1,5 @@
 ---
-title: "Chicken Schnitzel With Bacon and White Wine"
+title: "Chicken Schnitzel"
 permalink: /Chicken_Schnitzel/
 layout: single
 author-profile: true
