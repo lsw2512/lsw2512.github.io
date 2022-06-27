@@ -17,17 +17,17 @@ author-profile: true
 
 [Gammon Steaks With Parsley](/Gammon_Parsley/)
 
-[Roast duck legs with red wine sauce](/Duck_Red_Wine/)
+[Roast duck and red wine sauce](/Duck_Red_Wine/)
 
 [Merthyr pie](/Merthyr_pie/)
 
 ## Canadian
-[Tourtière: A French-Canadian Meat Pie](/Tourtière/)
+[Tourtièree](/Tourtière/)
 
 ## French
 [French-style chicken with peas & bacon](/French-chicken/)
 
-[Chicken Schnitzel With Bacon and White Wine](/Chicken_Schnitzel/)
+[Chicken Schnitzel](/Chicken_Schnitzel/)
 
 ## Indian
 
@@ -53,7 +53,7 @@ author-profile: true
 
 [Sausage and white wine risotto](/white_wine_risotto/)
 
-[Rigatoni imbottiti](/Rigatoni_imbottiti/)
+[Rigatoni Imbottiti](/Rigatoni_imbottiti/)
 
 [Cannelloni di carne](/Cannelloni_di_carne/)
 
@@ -61,9 +61,7 @@ author-profile: true
 
 [Chilli](/Chilli/)
 
-[Fajitas Bake](/Fajitas_Bake/)
-
-[Huevos rancheros](/Huevos_rancheros/)
+[Fajita Bake](/Fajitas_Bake/)
 
 [Guacamole](/Guacamole/)
 
@@ -75,7 +73,6 @@ author-profile: true
 
 [Moroccan Pastilla](/Moroccan_Pastilla/)
 
-[Moroccan tagine](/Moroccan_tagine/)
 
 ## Scottish
 
@@ -83,7 +80,7 @@ author-profile: true
 
 ## Southern USA
 
-[jambalaya](/jambalaya/)
+[Jambalaya](/jambalaya/)
 
 [Fried Chicken](/Fried_Chicken/)
 
@@ -96,6 +93,7 @@ author-profile: true
 ## Sides
 
 [golden corn fritters](/Corn_Fritters/)
+
 [deviled egg potato salad](/Deviled_Salad/)
 
 ## Desserts
