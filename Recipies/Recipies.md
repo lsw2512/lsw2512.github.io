@@ -49,8 +49,6 @@ author-profile: true
 
 [Skillet Lasagna](/Skillet_Lasagna/)
 
-[Ravioli lasagna](/Ravioli_lasagna/)
-
 [Sausage and white wine risotto](/white_wine_risotto/)
 
 [Rigatoni Imbottiti](/Rigatoni_imbottiti/)
