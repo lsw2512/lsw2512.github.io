@@ -52,8 +52,8 @@ msf > use auxiliary/scanner/smtp/smtp_enum
 ```
 ## SMTP documents
   
-https://cr.yp.to/smtp/vrfy.html
-http://null-byte.wonderhowto.com/how-to/hack-like-pro-extract-email-addresses-from-smtp-server-0160814/
-http://www.dummies.com/how-to/content/smtp-hacks-and-how-to-guard-against-them.html
-http://pentestmonkey.net/tools/user-enumeration/smtp-user-enum
-https://pentestlab.wordpress.com/2012/11/20/smtp-user-enumeration/
+- https://cr.yp.to/smtp/vrfy.html
+- http://null-byte.wonderhowto.com/how-to/hack-like-pro-extract-email-addresses-from-smtp-server-0160814/
+- http://www.dummies.com/how-to/content/smtp-hacks-and-how-to-guard-against-them.html
+- http://pentestmonkey.net/tools/user-enumeration/smtp-user-enum
+- https://pentestlab.wordpress.com/2012/11/20/smtp-user-enumeration/
