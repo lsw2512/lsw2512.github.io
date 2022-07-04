@@ -150,7 +150,7 @@ footer:
       url: "https://www.linkedin.com/in/luke-wilson-593720196"
   images: 
     - image: "/assets/images/mbcs-badge.png"
-    - image: "/assets/images/rittech-logo-red.png"
+    
 
 # Reading Files
 include:
