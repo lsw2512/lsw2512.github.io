@@ -4,8 +4,8 @@ main:
     url: /
   - title: "Pentesting-Notes"
     url: /pentest-index/
-  - title: "Web Pentesting"
-    url: /Web_Index/
+  - #title: "Web Pentesting"
+    #url: /Web_Index/
   - title: "OSINT"
     url: /OSINT-Index/
   - title: "Defensive"
