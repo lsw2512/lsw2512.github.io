@@ -5,7 +5,7 @@ layout: single
 author-profile: true
 ---
 
-UNION allows you to execute one or more additional SELECT queries, then append this to the original query.
+UNION allows you to execute multiple select queries
 
 ``SELECT a, b FROM table1 UNION SELECT c, d FROM table2``
 
