@@ -53,3 +53,11 @@ sudo apt install brave-browser
 
 `cargo install feroxbuster`
 
+8) install OWASP ZAP
+
+## now most packages are installed, configure web browsers
+
+brave
+
+1) change to darktheme and put sidebar on.
+2) 
