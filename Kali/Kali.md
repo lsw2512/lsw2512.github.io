@@ -32,3 +32,24 @@ sudo apt update
 sudo apt install brave-browser
 
 ```
+
+4) install terminator
+
+`sudo apt install terminator`
+
+5) install powerline fonts
+
+`Git clone https://github.com/powerline/fonts.git`
+
+5) install rust tool chain
+
+`curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh`
+
+6) install rustscan 
+
+`cargo install rustscan`
+
+7) install feroxbuster
+
+`cargo install feroxbuster`
+
