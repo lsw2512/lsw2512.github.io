@@ -14,7 +14,7 @@ author-profile: true
 
 2) Now I use an amazing script by Dewalt-Arch
 
-(href)[https://github.com/Dewalt-arch/pimpmykali]
+[Dewalt-Arch - Pimp my kali](https://github.com/Dewalt-arch/pimpmykali)
 
 Simply run the script and in the option menu select 'N' for new setup.
 
