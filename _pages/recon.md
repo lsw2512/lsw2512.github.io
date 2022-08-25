@@ -12,13 +12,13 @@ This will mostly fall under the OSINT section of with webpage, but here are some
 ## Sublister
 
 ```
-_Sublister3er -d <domain>
+Sublister3er -d <domain>
 ```
 
 ## WhatWeb
 
 ```
-_Whatweb http://<domain>
+Whatweb http://<domain>
 ```
 
 ## Amass
