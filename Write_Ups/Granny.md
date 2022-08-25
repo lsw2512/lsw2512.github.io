@@ -1,6 +1,6 @@
 ---
-title: "Deobfuscation"
-permalink: /Deobfuscation/
+title: "Granny"
+permalink: /Granny/
 layout: single
 author-profile: true
 ---
