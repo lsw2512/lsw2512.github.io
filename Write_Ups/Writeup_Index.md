@@ -14,3 +14,5 @@ author-profile: true
 [Knife - HTB](/Knife_HTB/)
 
 [Curling - HTB](/Curling/)
+
+[Granny - HTB](/Granny/)
